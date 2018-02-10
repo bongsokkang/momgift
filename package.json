@@ -9,6 +9,7 @@
   },
   "scripts": {
     "webpack": "webpack --progress --colors",
+    "prod": "NODE_ENV=production node server.js",
     "postinstall": "webpack -p",
     "dev": "webpack-dev-server",
     "start": "./node_modules/webpack-dev-server/bin/webpack-dev-server.js -p --progress && node server.js"
