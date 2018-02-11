@@ -9,14 +9,14 @@ highlighter:         true
 permalink:        pretty
 
 # Setup
-title:            Joshua Lande
-tagline:          'Data Science, Apache Pig, Hadoop, Blogging, Tweets, Astrophysics'
+title:           Kang Landscaping
+tagline:          'Los Angeles Glendale Hacienda Heights Landscaping Contractor Landscape Ka Kyoung'
 url:              http://www.joshualande.com
 shorturl:         joshualande.com
 
 author:
-  name:           'Joshua Lande'
-  url:            https://twitter.com/joshualande
+  name:           'Chung Sik Kang'
+  url:            twitterURL
 
 paginate:         1
 
@@ -24,7 +24,7 @@ paginate:         1
 version:          1.0.0
 
 github:
-  repo:           github.com/joshualande/joshualande.github.io
+  repo:           mygithub
 
 # This is the list of pages to include in the header of the website.
 pages_list:       
